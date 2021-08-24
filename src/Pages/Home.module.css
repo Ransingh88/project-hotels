@@ -3,6 +3,10 @@
     display: flex;
     justify-content: center;
 }
+.home__backgroundImage > img{
+    height: 500px;
+    position: fixed;
+}
 .searchCard{
     position: absolute;
     top: 1rem;
@@ -12,7 +16,7 @@
     width: 73%;
     border-radius: 0.5rem;
     padding: 1rem;
-    box-shadow: 0 0 6px #aaa;
+    box-shadow: 0 0 6px #bbb;
 }
 .searchCard p{
     color: #d32f2f;

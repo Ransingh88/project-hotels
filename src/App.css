@@ -2,6 +2,7 @@
 *{
   margin: 0;
   font-family: system, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;;
+  /* box-sizing: border-box; */
 }
 
 .App {
