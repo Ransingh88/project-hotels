@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex: 0.7;
+    flex: 0.75;
     padding: 0.2rem;
    
 }
@@ -19,7 +19,7 @@
     
 }
 .nav__navbar > img{
-    height:30px
+    height:33px
 }
 .nav__menus{
     display: flex;
@@ -45,7 +45,7 @@
 }
 .nav__extrasLink p{
     padding: 0.2rem 0.3rem;
-    margin: 0.5rem 0.3rem;
+    margin: 0.5rem 0.5rem;
     padding-left: 0;
     margin-left: 0;
 }
