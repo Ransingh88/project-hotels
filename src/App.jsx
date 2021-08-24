@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hotels.com
+      <img src="./images/hotels-logo.png" alt="" />
     </div>
   );
 }
