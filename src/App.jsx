@@ -1,9 +1,10 @@
 import './App.css';
+import { Home } from './Pages/Home';
 
 function App() {
   return (
     <div className="App">
-      <img src="./images/hotels-logo.png" alt="" />
+      <Home/>
     </div>
   );
 }
